@@ -1,0 +1,29 @@
+#section1 {
+    background-color: #1977f0;
+    color: #ffffff;
+    padding: 50px 50px 20px;
+    display: grid;
+    margin: 10px 30px;
+}
+section{
+    padding: 10px 30px ;
+}
+.div1 {
+    grid-row: 1;
+    grid-column: 1;
+}
+.div2 {
+    grid-row: 1;
+    grid-column: 2;
+}
+img{
+    border: 1px solid black;
+}
+section span {
+    background-color: #1977f0;
+    color: white;
+}
+
+section h3{
+    border-bottom: 2px solid #1977f0;
+}
